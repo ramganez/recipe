@@ -1,3 +1,5 @@
+import { useState, useEffect } from 'react';
+
 import Table from '@material-ui/core/Table';
 import TableBody from '@material-ui/core/TableBody';
 import TableCell from '@material-ui/core/TableCell';
@@ -5,6 +7,9 @@ import TableContainer from '@material-ui/core/TableContainer';
 import TableHead from '@material-ui/core/TableHead';
 import TableRow from '@material-ui/core/TableRow';
 import Paper from '@material-ui/core/Paper';
+import React from 'react';
+
+const axios = require('axios').default;
 
 function createData(Desc, Type, Time, Nutrition) {
   return { Desc, Type, Time, Nutrition };
@@ -19,8 +24,35 @@ const rows = [
 ];
 
 export default function TableComponent() {
+
+  const [error, setError] = useState(null);
+  const [isLoaded, setIsLoaded] = useState(false);
+  const [rows, setRows] = useState([]);
+
+  useEffect(() => {
+
+    // Make a request for a user with a given ID
+    axios.get('/api/recipe/get')
+      .then(function (response) {
+        // handle success
+        console.log(response);
+        setIsLoaded(true);
+        setRows(response.data);
+      })
+      .catch(function (error) {
+        // handle error
+        console.log(error);
+        setIsLoaded(true);
+        setError(error);
+      })
+      .then(function () {
+        // always executed
+      });
+  }, [])
+
   return (
     <TableContainer component={Paper}>
+      <pre>{JSON.stringify(rows, undefined, 2)}</pre>
       <Table>
         <TableHead>
           <TableRow>
