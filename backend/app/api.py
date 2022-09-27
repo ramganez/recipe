@@ -1,8 +1,11 @@
+from cmath import rect
 import functools
 
-from flask import Blueprint, jsonify
+from flask import Blueprint, jsonify, request
 
-from app.db import get_db
+from app.models import Recipe
+from app.database import db
+from symbol import return_stmt
 
 api_bp = Blueprint("api", __name__, url_prefix="/api")
 
@@ -17,7 +20,28 @@ def get_recipes():
     """
     Get All Receipes
     """
-    res = jsonify(
+    return jsonify(Recipe.select_all())
+
+
+@api_bp.route("/recipe/add", methods=["POST"])
+def add_recipes():
+    """
+    Add Receipe
+    """
+    if request.method == "POST":
+        recipe = Recipe(
+            desc=request.json["desc"],
+            type=request.json["type"],
+            cook_time=request.json["cook_time"],
+            nutrition=request.json["nutrition"],
+        )
+        db.session.add(recipe)
+        db.session.commit()
+    return {}
+
+
+"""
+    res_ = jsonify(
         [
             {
                 "Desc": "Frozen yoghurt",
@@ -51,5 +75,6 @@ def get_recipes():
             },
         ]
     )
-    # res.headers.add("Access-Control-Allow-Origin", "*")
     return res
+
+"""

@@ -7,12 +7,30 @@ import Button from '@mui/material/Button';
 
 import AddRecipe from './AddModal';
 
+const axios = require('axios').default;
+
 export default function MenuComponent() {
 
   const [open, setOpen] = React.useState(false);
 
   const handleOpen = () => {
     setOpen(true);
+  };
+
+  const handleSubmit = (event) => {
+    event.preventDefault();
+    axios.post('/api/recipe/add', {
+      desc: event.target.elements.desc.value,
+      type: event.target.elements.type.value,
+      cook_time: event.target.elements.cook_time.value,
+      nutrition: event.target.elements.nutrition.value
+    })
+    .then(function (response) {
+      console.log(response);
+    })
+    .catch(function (error) {
+      console.log(error);
+    });    
   };
 
   const handleClose = () => {
@@ -32,7 +50,7 @@ export default function MenuComponent() {
           </Button>
         </Tooltip>
       </Grid>
-      <AddRecipe open={open} handleOpen={handleOpen} handleClose={handleClose} />
+      <AddRecipe open={open} handleOpen={handleOpen} handleClose={handleClose} handleSubmit={handleSubmit}/>
     </>
   );
 }

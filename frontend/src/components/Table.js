@@ -52,7 +52,6 @@ export default function TableComponent() {
 
   return (
     <TableContainer component={Paper}>
-      <pre>{JSON.stringify(rows, undefined, 2)}</pre>
       <Table>
         <TableHead>
           <TableRow>
@@ -75,7 +74,10 @@ export default function TableComponent() {
           ))}
         </TableBody>
       </Table>
+      
+    <pre>{JSON.stringify(rows, undefined, 2)}</pre>
     </TableContainer>
+
   );
 }
 
