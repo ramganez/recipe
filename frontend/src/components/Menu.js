@@ -1,7 +1,6 @@
-import React from 'react';
+import { useState } from 'react';
 
 import { Grid } from '@material-ui/core';
-import AddIcon from '@material-ui/icons/Add';
 import Tooltip from '@mui/material/Tooltip';
 import Button from '@mui/material/Button';
 
@@ -9,9 +8,9 @@ import AddRecipe from './AddModal';
 
 const axios = require('axios').default;
 
-export default function MenuComponent() {
+export default function MenuComponent(props) {
 
-  const [open, setOpen] = React.useState(false);
+  const [open, setOpen] = useState(false);
 
   const handleOpen = () => {
     setOpen(true);
@@ -26,7 +25,8 @@ export default function MenuComponent() {
       nutrition: event.target.elements.nutrition.value
     })
     .then(function (response) {
-      console.log(response);
+      props.setRows(response.data);
+      setOpen(false);
     })
     .catch(function (error) {
       console.log(error);

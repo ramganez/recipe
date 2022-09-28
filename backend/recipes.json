@@ -1,0 +1,2879 @@
+[
+    {
+        "desc": "Baked Shrimp Scampi",
+        "type": "seafood",
+        "cook_time": "5m",
+        "nutrition": "159 fat"
+    },
+    {
+        "desc": "Strawberries Romanov (La Madeleine copycat)",
+        "type": "fruit",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Tomato Basil Soup (La Madeleine copycat)",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "John Thornes Pecan Pie",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Smoked Salmon Ebelskivers",
+        "type": "salmon",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Godiva Angel Pie",
+        "type": "chocolate",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Spaetzle",
+        "type": "german",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pot Roast Carbonnade",
+        "type": "beef",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Old Fashion Vegetable Soup",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Onion Pie",
+        "type": "onion",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Godiva Dark Chocolate Cheesecake",
+        "type": "cheesecake",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Greek Salad",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "297 fat"
+    },
+    {
+        "desc": "Flaky Buttermilk Biscuits",
+        "type": "biscuits",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Grilled Portobello Mushrooms Stacked with Fresh Spinach and Shaved Manchego Cheese",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Sherry Vinaigrette",
+        "type": "dressing",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Margherita Salad",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "164 fat"
+    },
+    {
+        "desc": "Mexican Ensalada",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "62 fat"
+    },
+    {
+        "desc": "Guacamole",
+        "type": "dip",
+        "cook_time": "5m",
+        "nutrition": "120 fat"
+    },
+    {
+        "desc": "Sweet Almond Date Smoothie",
+        "type": "smoothie",
+        "cook_time": "5m",
+        "nutrition": "25 fat"
+    },
+    {
+        "desc": "Super Protein Salad",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "35 fat"
+    },
+    {
+        "desc": "The Shake",
+        "type": "smoothie",
+        "cook_time": "5m",
+        "nutrition": "22 fat"
+    },
+    {
+        "desc": "Apple Carrot Salad",
+        "type": "raw",
+        "cook_time": "5m",
+        "nutrition": "74 fat"
+    },
+    {
+        "desc": "Extreme Green Salad",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "44 fat"
+    },
+    {
+        "desc": "Berry Sauce",
+        "type": "sauce",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Popeyes Muscle Salad","type": "salad",
+        "cook_time": "5m",
+        "nutrition": "21 fat"
+    },
+    {
+        "desc": "Breakfast Mediterranean Scramble",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "18 fat"
+    },
+    {
+        "desc": "Best Oatmeal Ever",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "14 fat"
+    },
+    {
+        "desc": "Lovely Lentils",
+        "type": "lentils",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Sweet Mashed Potatoes",
+        "type": "potatoes",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Steakhouse steaks",
+        "type": "beef",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Stove top mac and cheese",
+        "type": "cheese",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "The Original Chex Party Mix",
+        "type": "snack",
+        "cook_time": "5m",
+        "nutrition": "179 fat"
+    },
+    {
+        "desc": "Handmade Pasta",
+        "type": "noodles",
+        "cook_time": "5m",
+        "nutrition": "20 fat"
+    },
+    {
+        "desc": "Emeril Essence Creole Seasoning",
+        "type": "seasoning",
+        "cook_time": "5m",
+        "nutrition": "4 fat"
+    },
+    {
+        "desc": "Vegetarian Chili",
+        "type": "chili",
+        "cook_time": "5m",
+        "nutrition": "40 fat"
+    },
+    {
+        "desc": "Basil-Lime Vinaigrette",
+        "type": "dressing",
+        "cook_time": "5m",
+        "nutrition": "51 fat"
+    },
+    {
+        "desc": "Lentil Soup",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "43 fat"
+    },
+    {
+        "desc": "Natural sports drink",
+        "type": "FUF",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Vegetable Stock",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "1 fat"
+    },
+    {
+        "desc": "Spicy Rice Casserole",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "46 fat"
+    },
+    {
+        "desc": "Citrus Rice Salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "221 fat"
+    },
+    {
+        "desc": "Straw and Hay Fettuccine Tangle",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "112 fat"
+    },
+    {
+        "desc": "Green-packed Stir Fry with Fresh Herbs",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "32 fat"
+    },
+    {
+        "desc": "Apple-Brie Panini",
+        "type": "sandwich",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Shredded Green Beans",
+        "type": "vegetables",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Hot Cocoa",
+        "type": "drink",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pesto Orzo with Peas",
+        "type": "peas",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Roasted potatoes and tomatoes",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Almond Caesar salad with croutons",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "117 fat"
+    },
+    {
+        "desc": "Spiced Apple Sauce",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Schnitzel",
+        "type": "pork",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Oregano Marinated Chicken",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Black bean and cheese tacos",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "60 fat"
+    },
+    {
+        "desc": "Joans Broccoli Madness",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "144 fat"
+    },
+    {
+        "desc": "Marinara Sauce",
+        "type": "sauce",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Creamy tomato soup",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "84 fat"
+    },
+    {
+        "desc": "Triple Grilled Cheese",
+        "type": "sandwich",
+        "cook_time": "5m",
+        "nutrition": "104 fat"
+    },
+    {
+        "desc": "Vegetarian Steamed Dumplings",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Soba salad with asparagus and shrimp",
+        "type": "noodles",
+        "cook_time": "5m",
+        "nutrition": "24 fat"
+    },
+    {
+        "desc": "Tofu and Sweet Potato Jambalaya",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "28 fat"
+    },
+    {
+        "desc": "Parkers split pea soup","type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Wild Mushroom Risotto",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "70 fat"
+    },
+    {
+        "desc": "Roasted Salmon with Walnut-Pepper Relish",
+        "type": "salmon",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Brown rice, chickpea, feta, and mint salad",
+        "type": "rice",
+        "cook_time": "5m",
+        "nutrition": "60 fat"
+    },
+    {
+        "desc": "Greek yogurt with homemade honeycomb",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Cocktail Sauce",
+        "type": "condiment",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Heinz Chili Sauce",
+        "type": "copycat",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Spinach souffle",
+        "type": "spinach",
+        "cook_time": "5m",
+        "nutrition": "78 fat"
+    },
+    {
+        "desc": "Roasted Shallot Vinaigrette",
+        "type": "dressing",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Peanut Noodle Salad",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "80 fat"
+    },
+    {
+        "desc": "Artichoke, Leek, and Potato Casserole",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Broccoli with Parmesan and Walnuts",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Emerils strawberry lemonade",
+        "type": "drink",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pizza bianca",
+        "type": "pizza",
+        "cook_time": "5m",
+        "nutrition": "96 fat"
+    },
+    {
+        "desc": "Smoky Sweet-Potato Soup",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Green goddess dressing",
+        "type": "dressing",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Creamy roasted garlic dressing",
+        "type": "dressing",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Creamy ranch dressing",
+        "type": "dressing",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Creamy peppercorn-Parmesan dressing",
+        "type": "dressing",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Cherry-lime cups",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "102 fat"
+    },
+    {
+        "desc": "Roasted salsa",
+        "type": "salsa",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Shrimp and edamame with lime",
+        "type": "shrimp",
+        "cook_time": "5m",
+        "nutrition": "28 fat"
+    },
+    {
+        "desc": "Strawberries and cream bars",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "60 fat"
+    },
+    {
+        "desc": "Frozen chocolate mousse trifles",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "52 fat"
+    },
+    {
+        "desc": "Frozen lemon souffle",
+        "type": "lemon",
+        "cook_time": "5m",
+        "nutrition": "100 fat"
+    },
+    {
+        "desc": "Coconut lime semifreddo",
+        "type": "icecream",
+        "cook_time": "5m",
+        "nutrition": "276 fat"
+    },
+    {
+        "desc": "Sweet cherry granita",
+        "type": "granita",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Raspberry-lemon thumbprint cookies",
+        "type": "cookies",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Glazed carrots",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Baby Brussels sprouts with wild rice and pecans",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pumpkin mousse",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Salted caramel six layer chocolate cake",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Cranberry almond muffins",
+        "type": "muffins",
+        "cook_time": "5m",
+        "nutrition": "48 fat"
+    },
+    {
+        "desc": "Hazelnut pear muffins",
+        "type": "muffins",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Hazelnut pastry dough",
+        "type": "pastry",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pesto",
+        "type": "pesto",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pate brisee",
+        "type": "pastry",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Tex-mex rice and black eyed peas",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "88 fat"
+    },
+    {
+        "desc": "Baked eggs and beans on toast",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "80 fat"
+    },
+    {
+        "desc": "Warm shrimp and potato salad",
+        "type": "shrimp",
+        "cook_time": "5m",
+        "nutrition": "96 fat"
+    },
+    {
+        "desc": "Cherry couscous pudding",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Spinach lasagna with mushroom ragu",
+        "type": "italian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Chocolate chestnut mousse",
+        "type": "chocolate",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Spicy sauteed kale with lemon",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "18 fat"
+    },
+    {
+        "desc": "Caesar Salad Dressing",
+        "type": "salad_dressing",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Melomakarona - Honey Cookies with Walnuts",
+        "type": "cookies",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Kalitsounia Kritis: Sweet Cheese Pastries from Crete",
+        "type": "greek",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Gluten-free chocolate chips cookies",
+        "type": "GF",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Homemade candy canes",
+        "type": "candy",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pecan Pie",
+        "type": "pie",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Asian Salad",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pasta with roasted vegetables and bacon",
+        "type": "pasta",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pretzel shortbread bar",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Simple syrup",
+        "type": "drink",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Hot and nutty whiskey sours",
+        "type": "drink",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Three cheese macaroni",
+        "type": "cheese",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Broken glass cupcakes",
+        "type": "cupcakes",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Homemade beef stock",
+        "type": "stock",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "French onion soup",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Red lentil soup with sage and bacon",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Green pea soup with cheddar scallion panini",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Broccoli soup with cheddar toasts",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "48 fat"
+    },
+    {
+        "desc": "Coconut shrimp soup",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Creamy caramelized onion soup",
+        "type": "onion",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Hearty spinach and chickpea soup",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Chervil cream",
+        "type": "condiment",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Mushroom soup",
+        "type": "mushroom",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Harvest pumpkin soup",
+        "type": "pumpkin",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Lighter macaroni and cheese",
+        "type": "cheese",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Chocolate cheesecake squares",
+        "type": "cheesecake",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Chocolate cinnamon pudding",
+        "type": "chocolate",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Creepy crawly cake",
+        "type": "cake",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Blood orange cocktails",
+        "type": "drink",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Japanese style grilled salmon",
+        "type": "salmon",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Dang cold Asian noodle salad",
+        "type": "soba",
+        "cook_time": "5m",
+        "nutrition": "113 fat"
+    },
+    {
+        "desc": "Grilled salmon gyros",
+        "type": "salmon",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Homemade ponzu sauce",
+        "type": "sauce",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Sushi rice",
+        "type": "rice",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Grilled salmon sushi rice bowl",
+        "type": "japanese",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Roasted cauliflower and white beans",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Shrimp and cabbage stir fry",
+        "type": "stir_fry",
+        "cook_time": "5m",
+        "nutrition": "40 fat"
+    },
+    {
+        "desc": "Avocado feta dip",
+        "type": "dip",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Herb crusted salmon with spinach salad",
+        "type": "salmon",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Chocolate-Hazelnut Icebox Cake",
+        "type": "cake",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Smoky Yukon Gold Potato Chowder",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Orecchiette with roasted cauliflower",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "120 fat"
+    },
+    {
+        "desc": "Salsa fresca",
+        "type": "salsa",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Black bean salad with chipotle honey dressing",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "44 fat"
+    },
+    {
+        "desc": "Linguine with asparagus and egg",
+        "type": "pasta",
+        "cook_time": "5m",
+        "nutrition": "64 fat"
+    },
+    {
+        "desc": "Spanakopita",
+        "type": "greek",
+        "cook_time": "5m",
+        "nutrition": "168 fat"
+    },
+    {
+        "desc": "Coffee, hazelnut, and banana granola",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "140 fat"
+    },
+    {
+        "desc": "Cherry lime granola",
+        "type": "granola",
+        "cook_time": "5m",
+        "nutrition": "120 fat"
+    },
+    {
+        "desc": "Creamy artichoke dip",
+        "type": "dip",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Simple lemon cake",
+        "type": "cake",
+        "cook_time": "5m",
+        "nutrition": "160 fat"
+    },
+    {
+        "desc": "Gooey layered everything bars",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "342 fat"
+    },
+    {
+        "desc": "Chili Lemon Cauliflower",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pecan molasses granola",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "160 fat"
+    },
+    {
+        "desc": "Salmon and potatoes in tomato sauce",
+        "type": "salmon",
+        "cook_time": "5m",
+        "nutrition": "123 fat"
+    },
+    {
+        "desc": "Pear and chocolate brioche bread pudding",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Potato hash with spinach and eggs",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Brussels sprouts with maple and cayenne",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Roasted sweet potatoes and bacon",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Salted chocolate milk",
+        "type": "drink",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Marinated feta, spinach & poached egg salad",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "64 fat"
+    },
+    {
+        "desc": "Drop biscuits (Cooks Illustrated)","type": "biscuits",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Light ranch dressing",
+        "type": "dressing",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Light Italian dressing",
+        "type": "dressing",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Chocolate banana ice cream pie",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Salmon rillettes with tomato salad",
+        "type": "salmon",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Granitaville",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pickled red onions",
+        "type": "condiment",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Red sangria",
+        "type": "drink",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Smoky white bean and arugula panini",
+        "type": "sandwich",
+        "cook_time": "5m",
+        "nutrition": "72 fat"
+    },
+    {
+        "desc": "Easy chickpea and vegetable curry",
+        "type": "indian",
+        "cook_time": "5m",
+        "nutrition": "102 fat"
+    },
+    {
+        "desc": "White sangria",
+        "type": "drink",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Rose sangria",
+        "type": "drink",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Chiles Rellenos",
+        "type": "mexican",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Hawaiian style short ribs (slow cooker)",
+        "type": "slow_cooker",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Cheese crackers",
+        "type": "crackers",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Roasted sweet potato salsa",
+        "type": "salsa",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Shredded Brussels sprouts with pancetta",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "64 fat"
+    },
+    {
+        "desc": "Maple brown butter semifreddo",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "270 fat"
+    },
+    {
+        "desc": "Brown sugar buttermilk pie",
+        "type": "pie",
+        "cook_time": "5m",
+        "nutrition": "192 fat"
+    },
+    {
+        "desc": "Baked Beans",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Lemonade",
+        "type": "drink",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Mushroom and lentil soup",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "33 fat"
+    },
+    {
+        "desc": "Apple brandy brown betty",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pumpkin chocolate whoopie pies",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Indian Chickpea Wrap",
+        "type": "indian",
+        "cook_time": "5m",
+        "nutrition": "44 fat"
+    },
+    {
+        "desc": "Veggie burger pockets",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Towering flourless chocolate cake",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Lemon white chocolate cookies",
+        "type": "cookies",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Chocolate babka",
+        "type": "chocolate",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Chocolate ice cubes",
+        "type": "chocolate",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "French-Onion Stuffed Potatoes",
+        "type": "potato",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Kale Salad with Marcona Almonds and Sherry Vinaigrette",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Ghirardelli Ultimate Double Chocolate Cookies",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Squash lasagna with fresh basil",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Brazilian sweet bread",
+        "type": "bread",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Chocolate dipped coconut macaroons",
+        "type": "cookies",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Peppermint crunch bark",
+        "type": "candy",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Mexican wedding cookies",
+        "type": "cookies",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Kale caesar salad",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "100 fat"
+    },
+    {
+        "desc": "Kale and feta salad",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "182 fat"
+    },
+    {
+        "desc": "Eggnog glazed spritz cookies",
+        "type": "cookies",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Taco Spread",
+        "type": "condiment",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Tex Mex Scones",
+        "type": "mexican",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Mocha chip cookie scones",
+        "type": "scones",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Scalloped Yukon Gold and Sweet Potato Gratin",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Soba Noodle Salad",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Antipasto Chefs Salad",
+        "type": "cookies",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Baked Penne with Roasted Vegetables",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "All-day minestrone (slow cooker)",
+        "type": "slow_cooker",
+        "cook_time": "5m",
+        "nutrition": "48 fat"
+    },
+    {
+        "desc": "Berry Granola Parfait",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "7 fat"
+    },
+    {
+        "desc": "Golden Granola",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Smoked salmon baked potatoes",
+        "type": "potatoes",
+        "cook_time": "5m",
+        "nutrition": "66 fat"
+    },
+    {
+        "desc": "Guacamole baked potatoes",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Bruschetta baked potatoes",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Samosa baked potatoes",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "20 fat"
+    },
+    {
+        "desc": "Apple-cheddar baked sweet potatoes",
+        "type": "main,",
+        "cook_time": "5m",
+        "nutrition": "80 fat"
+    },
+    {
+        "desc": "Paella pasta salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "72 fat"
+    },
+    {
+        "desc": "Shrimp fried rice",
+        "type": "seafood",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Ina Gartens Pesto",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pinto bean and poblano tacos",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "60 fat"
+    },
+    {
+        "desc": "Muttar paneer",
+        "type": "indian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Almost famous broccoli cheddar soup",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Tofu parmesan subs",
+        "type": "untried",
+        "cook_time": "5m",
+        "nutrition": "88 fat"
+    },
+    {
+        "desc": "Pasta with escarole",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "92 fat"
+    },
+    {
+        "desc": "Squash and bean burritos",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "60 fat"
+    },
+    {
+        "desc": "Broiled halibut with ricotta-pea puree",
+        "type": "seafood",
+        "cook_time": "5m",
+        "nutrition": "80 fat"
+    },
+    {
+        "desc": "Veggie Carribean Panini",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "48 fat"
+    },
+    {
+        "desc": "Italian ice",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Baja fish tacos",
+        "type": "fish",
+        "cook_time": "5m",
+        "nutrition": "180 fat"
+    },
+    {
+        "desc": "Seven layer bars",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Ranch dip with vegetables",
+        "type": "dip",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Classic cheese fondue (for Cuisinart Fondue Pot)",
+        "type": "appetizer",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Miso dressing",
+        "type": "dressing",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Baked eggs and grits",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Open face egg and tomato sandwich",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "26 fat"
+    },
+    {
+        "desc": "Lemony walnut chickpea salad with goats cheese",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Buttery shrimp and radish pasta",
+        "type": "seafood",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Skillet shrimp and orzo",
+        "type": "seafood",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Salad with Radishes and Spicy Pumpkin Seeds",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Stuffed poblanos",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Black bean and brown rice cakes",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "20 fat"
+    },
+    {
+        "desc": "Hot Nutty Irishman",
+        "type": "drink",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "English muffin with apple and cheddar",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "15 fat"
+    },
+    {
+        "desc": "Penne with Butternut Squash and Goat Cheese",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Couscous stuffed bellpeppers with basil sauce",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "168 fat"
+    },
+    {
+        "desc": "Chopped antipasto salad",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Salad with egg, nuts, and veggies",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Spider web brownies",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Fudge brownies",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Almond cloud cookies",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Double-shot mocha chunks",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Peanut butter-oatmeal sandwich cookies",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Bagel and lox deviled eggs",
+        "type": "appetizer",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Mayonnaise",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pesto millet grits with tomato ragout",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "80 fat"
+    },
+    {
+        "desc": "Spicy orange tofu and vegetable stir-fry",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Coconut shrimp with tropical rice",
+        "type": "seafood",
+        "cook_time": "5m",
+        "nutrition": "36 fat"
+    },
+    {
+        "desc": "Chipotle black-eyed pea salad",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Greek layered dip with pita chips",
+        "type": "appetizer",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Butternut squash chili",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Rosemary mushroom chickpea ragout",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Sauteed Mushrooms with Toasted Flatbread and Baked Eggs",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Shakshuka with chickpeas",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "76 fat"
+    },
+    {
+        "desc": "Eggplant meatballs with marinara",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Sweet potato millet burgers",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Arroz non pollo (slow cooker)",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Flan",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Homemade pecan and maple nut butter",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Mini Tostadas",
+        "type": "appetizer",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Caprese Skewers",
+        "type": "appetizer",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Artichoke Risotto with Mascarpone, Lemon, and Thyme",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Herbed biscuits with smoked salmon",
+        "type": "seafood",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "French Onion Dip",
+        "type": "appetizer",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Thai Vegetable Stir-fry",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Mediterranean Grain Salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "16 fat"
+    },
+    {
+        "desc": "Cannoli",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Fudge drops (cookies)",
+        "type": "cookies",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Easy florentines",
+        "type": "cookies",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Simple candied orange peel",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Maple shortbread sandwich cookies",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pecan squares",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Fruity oatmeal topping",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Arugula Salad with Figs, Prosciutto, Walnuts, and Parmesan",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "124 fat"
+    },
+    {
+        "desc": "Red Lentil Soup with North African Spices",
+        "type": "soup",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Eggplant involtini",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Texas chili potato skins",
+        "type": "appetizer",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Maple-bacon potato skins",
+        "type": "appetizer",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Frisco gourmet potato skins",
+        "type": "appetizer",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Toasted ravioli potato skins",
+        "type": "appetizer",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Vegetable and tofu pad thai",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "64 fat"
+    },
+    {
+        "desc": "Wasabi Salmon with Miso-Sesame Sauce",
+        "type": "salmon",
+        "cook_time": "5m",
+        "nutrition": "40 fat"
+    },
+    {
+        "desc": "Cabbage-Asparagus Salad with Tahini Dressing",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Microwave mug brownie",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Egg sauce",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "18 fat"
+    },
+    {
+        "desc": "Black-eyed pea burgers with summer squash slaw",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "72 fat"
+    },
+    {
+        "desc": "Korean scallion pancakes with vegetable salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "68 fat"
+    },
+    {
+        "desc": "Sweet and sour wheatballs",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Baked tofu",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Southwestern brown rice bowl",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Sweet, Spicy & Salty Candied Pecans",
+        "type": "snack",
+        "cook_time": "5m",
+        "nutrition": "160 fat"
+    },
+    {
+        "desc": "Panko-crusted tofu with black bean salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "80 fat"
+    },
+    {
+        "desc": "Farro Fagioli Minestrone",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "90 fat"
+    },
+    {
+        "desc": "Spanish frittata with mixed greens salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "90 fat"
+    },
+    {
+        "desc": "Roasted root vegetables with creamy grits",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "90 fat"
+    },
+    {
+        "desc": "Farmer's market vegetable pot pie",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "90 fat"
+    },
+    {
+        "desc": "Eggplant parmesan pizza",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Grilled cheese and romesco sandwiches",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "108 fat"
+    },
+    {
+        "desc": "Barley risotto verde",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "60 fat"
+    },
+    {
+        "desc": "French onion potato tart",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "120 fat"
+    },
+    {
+        "desc": "Perfect soft cooked egg",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Poblano, mushroom and potato tacos",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Tofu Cuban sandwiches",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Wild mushroom and cauliflower lasagna",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "448 fat"
+    },
+    {
+        "desc": "Hot cereal with apple butter and walnuts",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "6 fat"
+    },
+    {
+        "desc": "Mexican potato omelet",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "84 fat"
+    },
+    {
+        "desc": "Gazpacho Soup",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "222 fat"
+    },
+    {
+        "desc": "Eggs with mushrooms and tomatoes",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "72 fat"
+    },
+    {
+        "desc": "Fruit and cheese breakfast",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "29 fat"
+    },
+    {
+        "desc": "Morning pizza",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Mustard, Avocado, and Dill on a Whole-Wheat Muffin With Boiled Egg",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "38 fat"
+    },
+    {
+        "desc": "Miso salad dressing",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Miso soup",
+        "type": "japanese",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Baked English Muffins",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Mesquite chocolate chip cookies",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Asparagus pesto",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Savory Oatmeal and Soft-Cooked Egg",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "11 fat"
+    },
+    {
+        "desc": "Goat cheese Nicoise",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Oatmeal-crusted trout",
+        "type": "seafood",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Bourbon praline cake",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Salmon Burgers with Caesar Slaw",
+        "type": "salmon",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Tapenade",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Leek Salad with Grilled Haloumi Cheese and Wheat Berries",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Hoisin-Lime Salmon with Asparagus Couscous",
+        "type": "salmon",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Salmon Nicoise Salad",
+        "type": "salmon",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Baked Gnocchi with Prosciutto & Spinach",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Shrimp Scampi with Pasta",
+        "type": "seafood",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Adult Lunchable with Veggies, Egg, and Boursin",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "24 fat"
+    },
+    {
+        "desc": "Seitan and three-color pepper stir-fry bento",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "17 fat"
+    },
+    {
+        "desc": "Tamagoyaki Bento",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Less-mess oven bacon",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Chocolate chip pumpkin bread",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "The best angel food cake",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Fried Shrimp Bento",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Carrot and celeriac (celery root) salad",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "16 fat"
+    },
+    {
+        "desc": "Spring Chickpea Pasta Salad",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "26 fat"
+    },
+    {
+        "desc": "Carrot kinpira",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "16 fat"
+    },
+    {
+        "desc": "Salt block cucumber salad",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "28 fat"
+    },
+    {
+        "desc": "Salt-baked walnut brioche scones",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "200 fat"
+    },
+    {
+        "desc": "Hot buttered rum",
+        "type": "drink",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Overnight Cinnamon Rolls",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Sweet pepper and onion confit",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Basic bento: tofu and egg",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "24 fat"
+    },
+    {
+        "desc": "Petite vegetable frittatas",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "156 fat"
+    },
+    {
+        "desc": "Couscous Salad with Roasted Vegetables and Chickpeas",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Roasted Shrimp, Endive, and Red Onion Salad",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "36 fat"
+    },
+    {
+        "desc": "Udon noodle soup",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "60 fat"
+    },
+    {
+        "desc": "Oaxaca Cheese & Plantain Tortas with Tangelo & Radish Salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "55 fat"
+    },
+    {
+        "desc": "Restaurant Style Butter Chicken in Slow Cooker",
+        "type": "indian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Mushroom & Broccoli Casserole with Baked Pastry",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "72 fat"
+    },
+    {
+        "desc": "Penne & Arrabbiata Sauce with Roasted Carrot & Tangelo Salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "40 fat"
+    },
+    {
+        "desc": "Smoky Seared Cod with Roasted Potatoes & Dates",
+        "type": "fish",
+        "cook_time": "5m",
+        "nutrition": "62 fat"
+    },
+    {
+        "desc": "Kale & White Cheddar Quesadillas with Radishes & Fried Eggs",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "58 fat"
+    },
+    {
+        "desc": "Almond latte overnight oats",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "11 fat"
+    },
+    {
+        "desc": "French toast popcorn seasoning",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Baked Tofu Banh Mi Salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "128 fat"
+    },
+    {
+        "desc": "Mexican caprese salad",
+        "type": "mexican",
+        "cook_time": "5m",
+        "nutrition": "62 fat"
+    },
+    {
+        "desc": "Chocolate covered strawberry quick oatmeal",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "9 fat"
+    },
+    {
+        "desc": "Golden-crusted Brussels sprouts",
+        "type": "sides",
+        "cook_time": "5m",
+        "nutrition": "24 fat"
+    },
+    {
+        "desc": "Bacon cheddar chive scones",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Sweet and Spicy Tofu with Jasmine Rice and Crispy Shallot",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Olive and Pepper Grilled Cheese Sandwiches",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Mediterranean Salad with Artichokes, Penne, and Sun-Dried Tomatoes",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "20 fat"
+    },
+    {
+        "desc": "Tofu katsu onigirazu",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "92 fat"
+    },
+    {
+        "desc": "Super veggie onigirazu",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "12 fat"
+    },
+    {
+        "desc": "Hummus vegetable sandwich",
+        "type": "sandwich",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Oregano halloumi with orzo salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "160 fat"
+    },
+    {
+        "desc": "Aged Eggnog",
+        "type": "drink",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Cucumber, Avocado, and Miso Spinach Rice Bowl",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "64 fat"
+    },
+    {
+        "desc": "Spicy poblano pepper and cheese tortas",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "76 fat"
+    },
+    {
+        "desc": "Chirashi-Style Rice Bowls",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Sweet & Savory Korean Rice Cakes",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Roasted Brussels sprouts and freekeh salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Salsa Scramble",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "19 fat"
+    },
+    {
+        "desc": "Cheesy mushroom omelette",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "26 fat"
+    },
+    {
+        "desc": "Black Forest Bircher (overnight oats)",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "46 fat"
+    },
+    {
+        "desc": "Almond muffin in a minute",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "23 fat"
+    },
+    {
+        "desc": "Pesto Cavatelli w/ Mushrooms and Spicy Breadcrumbs",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Black bean mini burgers",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "18 fat"
+    },
+    {
+        "desc": "Mini hamburger bento (Select a mini burger recipe too)",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "7 fat"
+    },
+    {
+        "desc": "Fresh salmon mini burgers",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "11 fat"
+    },
+    {
+        "desc": "Avocado, olive tapenade, and chedder toast",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "29 fat"
+    },
+    {
+        "desc": "Cozy bean and egg skillet for two",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "28 fat"
+    },
+    {
+        "desc": "Whipped eggs on toast",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "28 fat"
+    },
+    {
+        "desc": "Peach & Pickled Pepper Grilled Cheese",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Black bean and zucchini enchiladas",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "45 fat"
+    },
+    {
+        "desc": "Mexican spice blend",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Banh Mi Sandwiches with Roasted Broccoli",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "82 fat"
+    },
+    {
+        "desc": "Roasted Sweet Potato Quesadillas",
+        "type": "quesadilla",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Vadouvan curry spice blend",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Niçoise-Style Salad  with Fingerling Potatoes, Summer Squash, & Fried Eggs",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Mulled cranberry apple cider",
+        "type": "drinks",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Creamy chipotle salad dressing",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Baked macaroni and cheese",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "216 fat"
+    },
+    {
+        "desc": "Cavatelli and kale with fried rosemary and walnuts",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "100 fat"
+    },
+    {
+        "desc": "Falafel with Spicy Feta Sauce and Vegetable Salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "141 fat"
+    },
+    {
+        "desc": "Spicy salmon onigirazu",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Malted hot cocoa",
+        "type": "drinks",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Miso-ginger dressing",
+        "type": "dressing",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pizza dough",
+        "type": "pizza",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Spicy black bean quesadillas with roasted carrot and avocado salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Leftover BonChon Salad",
+        "type": "salad",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Vadouvan-spiced vegetable fritters with salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Vanilla Cupcakes",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Chocolate Cupcakes",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Pickled Beet & Hard-Boiled Egg Sandwiches with Smoky Mayonnaise",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Butternut Squash & Fontina Calzones with Apple & Arugula Salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Mushroom Barley Soup",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Egg, cucumber, and smoked gouda spread sandwiches",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Miso sweet potato donburi",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Tofu soboro (iridofu)",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Egg soboro (iritamago)",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Tofu soboro bento",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Carrot soboro",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Spiced Cod & Summer Squash Cakes",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Cajun Catfish and Spiced Rice",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Indian-style paneer and creamy tomato curry",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Tonkatsu sauce",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Gluten-Free Chocolate-Tahini Brownies",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Eggs on Toast",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Beans and garlic toast in broth",
+        "type": "main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Smoky Brussels Sprouts & Black Bean Tacos",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Japanese egg salad sandwich (tamago sando)",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "82 fat"
+    },
+    {
+        "desc": "Kaeshi",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Soba Noodle Bento",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Peanut Butter Oatmeal Breakfast Cookies",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "24 fat"
+    },
+    {
+        "desc": "Scallops over Truffled Mushroom Risotto",
+        "type": "seafood",
+        "cook_time": "5m",
+        "nutrition": "84 fat"
+    },
+    {
+        "desc": "Snickerdoodle mug cake",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Dark chocolate raspberry breakfast bake",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "10 fat"
+    },
+    {
+        "desc": "Oatmeal cookie dough breakfast bake",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "23 fat"
+    },
+    {
+        "desc": "Spicy poblano and mushroom quesadillas",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Ranch Dressing Dry Mix",
+        "type": "component",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Ranch Dressing",
+        "type": "component",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Fontina, Persimmon, and Onion Grilled Cheese",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Broccoli and Mozzarella Pizza",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "61 fat"
+    },
+    {
+        "desc": "Roasted broccoli and fregola sarda pasta",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "51 fat"
+    },
+    {
+        "desc": "Ancho chile paste",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Single Serve Mug Coffee Cake",
+        "type": "untried",
+        "cook_time": "5m",
+        "nutrition": "6 fat"
+    },
+    {
+        "desc": "Mediterranean egg salad",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "74 fat"
+    },
+    {
+        "desc": "Cold soba and shrimp fritter bento",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Red Cabbage Okonomiyaki",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Tofu karaage and onigiri bento",
+        "type": "bento",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Chickpea & Couscous Veggie Bowl",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Crispy tofu sandwiches",
+        "type": "sandwich",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Mediterranean pasta salad",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "92 fat"
+    },
+    {
+        "desc": "Boursin broccoli soup",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "103 fat"
+    },
+    {
+        "desc": "Sunbutter energy bites",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Broccoli rice casserole",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "84 fat"
+    },
+    {
+        "desc": "Cream cheese fruit dip",
+        "type": "components",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Overnight Chia Pudding",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "42 fat"
+    },
+    {
+        "desc": "Pear clafouti",
+        "type": "dessert",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Summer Veggie and Egg Paninis",
+        "type": "sandwich",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Creamy Summer Veggie Risotto",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "56 fat"
+    },
+    {
+        "desc": "Roasted Garlic",
+        "type": "component",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Roasted Garlic Hummus",
+        "type": "component",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Potato and kale hash with baked eggs and hot sauce",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "62 fat"
+    },
+    {
+        "desc": "Goat Cheese Sandwich with Arugula & Cucumber",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "10 fat"
+    },
+    {
+        "desc": "Cheesy portobello mushroom caps",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "51 fat"
+    },
+    {
+        "desc": "Sweet Potato Bowl with Creamy Tahini Dressing",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "58 fat"
+    },
+    {
+        "desc": "Italian garden veggie soup",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "50 fat"
+    },
+    {
+        "desc": "Perfectly Pillowly Cinnamon Rolls",
+        "type": "breakfast",
+        "cook_time": "5m",
+        "nutrition": "112 fat"
+    },
+    {
+        "desc": "test",
+        "type": "Main",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Vegetable Tortilla Roll-ups",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "192 fat"
+    },
+    {
+        "desc": "Crunchy chickpea pita pockets",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Stuffed Delicata Squash",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Fairy Tale Eggplant Pizza",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    },
+    {
+        "desc": "Vegetarian Jjajangmyeon",
+        "type": "vegetarian",
+        "cook_time": "5m",
+        "nutrition": "0 fat"
+    }
+]

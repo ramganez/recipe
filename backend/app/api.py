@@ -1,11 +1,8 @@
-from cmath import rect
-import functools
-
+import json
 from flask import Blueprint, jsonify, request
 
 from app.models import Recipe
 from app.database import db
-from symbol import return_stmt
 
 api_bp = Blueprint("api", __name__, url_prefix="/api")
 
@@ -37,44 +34,12 @@ def add_recipes():
         )
         db.session.add(recipe)
         db.session.commit()
-    return {}
+    return jsonify(Recipe.select_all())
 
 
-"""
-    res_ = jsonify(
-        [
-            {
-                "Desc": "Frozen yoghurt",
-                "Type": "Lunch",
-                "Time": "1 Hr",
-                "Nutrition": "protein 10.2g",
-            },
-            {
-                "Desc": "Ice cream sandwich",
-                "Type": "Breakfast",
-                "Time": "50 Min",
-                "Nutrition": "protein 10.2g",
-            },
-            {
-                "Desc": "Eclair",
-                "Type": "Dinner",
-                "Time": "10 Min",
-                "Nutrition": "carbohydrates 3.9g",
-            },
-            {
-                "Desc": "Cupcake",
-                "Type": "Drinks",
-                "Time": "30 Min",
-                "Nutrition": "cholesterol 30.2mg",
-            },
-            {
-                "Desc": "Gingerbread",
-                "Type": "Salad",
-                "Time": "15 Min",
-                "Nutrition": "131 calories",
-            },
-        ]
-    )
-    return res
-
-"""
+@api_bp.route("/recipe/search", methods=["POST"])
+def search_recipes():
+    """
+    Search Receipe
+    """
+    return jsonify(Recipe.search_all(request.json["query"]))
